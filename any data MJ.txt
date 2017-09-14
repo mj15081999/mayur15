@@ -1,0 +1,7 @@
+x=int(input("enter a number"))
+y=int(input("enter a number"))
+sum=x+y
+mult=x*y
+print(sum,"addition of the number is")
+print(mult,"multiplication of the number is")
+
