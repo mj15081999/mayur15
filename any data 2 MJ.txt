@@ -1,0 +1,7 @@
+mystr=input("enter a string")
+revstr=mystr[::-1]
+print("reverse is"+revstr)
+if(revstr==mystr):
+print("it is palindrome")
+else:
+print("it is not a palindrome") 
